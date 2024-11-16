@@ -28,5 +28,6 @@
 
 ###
 
-###
-<imf src="https://media.tenor.com/ACcuFP91SnwAAAAe/hacker-meme.png" height=70 alt="hackerman" />
+<div align="center">
+  <img src="https://media.tenor.com/ACcuFP91SnwAAAAe/hacker-meme.png" alt="hacker gif" />
+</div>
