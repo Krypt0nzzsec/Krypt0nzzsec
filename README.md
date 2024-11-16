@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦</h2>
 
 ###
 
@@ -28,6 +28,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://media.tenor.com/ACcuFP91SnwAAAAe/hacker-meme.png" alt="hacker gif" />
-</div>
