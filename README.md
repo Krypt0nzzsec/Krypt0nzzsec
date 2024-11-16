@@ -28,6 +28,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Krypt0nzzsec/Krypt0nzzsec/output/snake.svg" alt="Snake animation" />
-
 ###
